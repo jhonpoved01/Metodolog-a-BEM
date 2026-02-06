@@ -1,0 +1,29 @@
+.habitacion{
+    padding: 10px;
+    margin: 10px;
+    background-color: #e3d2bd;
+    color: #db5151;
+    border: 6px solid #db5151;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.habitacion__titulo{
+    font-size: 40px;
+    margin: 5px;
+    font-family: cursive;
+}
+
+.habitacion__descripcion{
+    font-size: 20px;
+    margin: 5px;
+    font-family: cursive;
+    color: #6283bf
+}
+
+.habitacion__item{
+    font-size: 20px;
+    margin: 5px;
+    font-family: cursive;
+    color: #af95eb
+}

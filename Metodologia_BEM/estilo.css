@@ -1,0 +1,15 @@
+.closet{
+  border: 2px black;
+  padding: 15px;
+  background-color: #e37c7c;
+}
+
+.closet__shoes{
+  margin-top: 10px;
+  background-color: #f7e1e1;
+}
+
+.closet__shoes-item{
+  font-weight: bold;
+  background-color: #dadaf7;;
+}

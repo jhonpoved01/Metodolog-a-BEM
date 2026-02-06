@@ -1,0 +1,32 @@
+@import url("habitacion.css");
+@import url("cocina.css");
+@import url("sala.css");
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menu h1{
+  font-size: 48px;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.menu p{
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
